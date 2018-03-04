@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+.title {
+    text-align: center;
+    font-size:60px;
+}
+
+.chatbox{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.chatmessage {
+    text-align: center;
+    display:block;
+    margin-top: 15px;
+
+}
+
+h1 {
+    text-align: center;
+    color:pink;
+}
+
+.sendbutton {
+    height:25px;
+    width: 100px;
+    background-color:red;
+    color: white;
+}
